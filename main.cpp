@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <iostream>
 
 int main(int argc, char *argv[]) {
-  printf("xin chao the gioi");
+  std::cout << "xin chao the gioi";
   return 0;
 }
