@@ -6,5 +6,6 @@ int main(int argc, char *argv[]) {
   add(18, 17);
   add(1.3, 1.5);
   // thu dong nay;
+  std::cout << "xin chao the gioi";
   return 0;
 }
