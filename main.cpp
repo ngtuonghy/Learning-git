@@ -7,5 +7,7 @@ int main(int argc, char *argv[]) {
   add(1.3, 1.5);
   // thu dong nay;
   std::cout << "xin chao the gioi";
+  add(1.3, 1.5);
+  std::cout << "hello";
   return 0;
 }
