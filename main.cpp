@@ -10,4 +10,5 @@ int main(int argc, char *argv[]) {
   add(1.3, 1.5);
   std::cout << "hello";
   return 0;
+  std::cout << "write some thing";
 }
