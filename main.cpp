@@ -8,8 +8,8 @@ int main(int argc, char *argv[]) {
   // thu dong nay;
   std::cout << "xin chao the gioi";
   add(1.3, 1.5);
-  std::cout << "hello";
+  std::cout << "hello ga ka";
   return 0;
   std::cout << "write some thing";
-  std::cout << "coontinue write some thing";
+  std::cout << "coontinue write some thing   do d dn dndndndnnnn";
 }
